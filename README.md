@@ -2,7 +2,7 @@
 
 ![Sankofism](https://github.com/unicornlaunching/the-supra-self/blob/main/the_sankofa_self_image.png)
 
-Read book: [The Sankofa Self](https://github.com/unicornlaunching/the-supra-self/blob/main/The%20Sankofa%20Self%20by%20Mel%20and%20Blockface.pdf)
+Read book: [The Sankofa Self](https://github.com/unicornlaunching/the_sankofa_self/blob/main/The_Sankofa_Self_final.pdf)
 
 Authors:
 - [Blockface.btc](http://www.x.com/attractfund1ng)
